@@ -1,0 +1,73 @@
+
+`
+java:S1126¬"BReplace this if-then-else statement by a single method invocation.(¥ŞŠ²8Ì †‰ª.
+•
+java:S1319â"rThe type of the "intList" object should be an interface such as "List" rather than the implementation "ArrayList".(¼Ë¶üÿÿÿÿ8Ì †‰ª.
+
+java:S1319ş"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÓÅº£8Ì †‰ª.
+|
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(û»Åİùÿÿÿÿ8Ì †‰ª.
+F
+java:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ì †‰ª.
+|
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(û»Åİùÿÿÿÿ8Ì †‰ª.
+‘
+java:S4165›"nRemove this useless assignment; "bitmapCompressed" already holds the assigned value along all execution paths.(ÖÙûŠüÿÿÿÿ8Ì †‰ª.
+^	java:S125ß"<This block of commented-out lines of code should be removed.(—ú¿±úÿÿÿÿ8Ì †‰ª.
+“
+java:S1319·"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".( ë­şÿÿÿÿ8‚”­‰ª.
+L
+java:S1066o"/Merge this if statement with the enclosing one.(ºó¢Š8Ì †‰ª.
+–
+java:S1319ù"sThe type of the "longList" object should be an interface such as "List" rather than the implementation "ArrayList".(¨ŒŠ¶úÿÿÿÿ8Ì †‰ª.
+|
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ¡ÜÃùÿÿÿÿ8Ì †‰ª.
+“
+java:S1319³"uThe type of the "stringList" object should be an interface such as "List" rather than the implementation "ArrayList".(â»í·8Ì †‰ª.
+l
+java:S4042Š"IUse "java.nio.Files#delete" here for better messages on error conditions.(Îšôşÿÿÿÿ8Ì †‰ª.
+R
+java:S1066Š"/Merge this if statement with the enclosing one.(Îšôşÿÿÿÿ8Ì †‰ª.
+
+java:S1319§"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶ÄÛÀ8Ì †‰ª.
+E
+java:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ì †‰ª.
+F
+java:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ì †‰ª.
+†	java:S116"jRename this field "DEFAULT_APP_IMAGEDATA_DIRECTORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şß´Ô8Ì †‰ª.
+F
+java:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ì †‰ª.
+w
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰«×õ8Ì †‰ª.
+I
+java:S1452"&Remove usage of generic wildcard type.(Ç ù™üÿÿÿÿ8Ì †‰ª.
+‘
+java:S1319Ê"sThe type of the "boolList" object should be an interface such as "List" rather than the implementation "ArrayList".(™ƒ¶ß8Ì †‰ª.
+˜
+java:S1319›"uThe type of the "doubleList" object should be an interface such as "List" rather than the implementation "ArrayList".(„Ÿ¤øÿÿÿÿ8Ì †‰ª.
+H
+java:S5411Ï"*Use the primitive boolean expression here.(¸è×¨8Ì †‰ª.
+O
+java:S11350"2Complete the task associated to this TODO comment.(‡ñÅ¼8Ì †‰ª.
+|
+java:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìãµ°ùÿÿÿÿ8Ì †‰ª.
+|
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(û»Åİùÿÿÿÿ8Ì †‰ª.
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŞÔ‘³üÿÿÿÿ8Ì †‰ª.
+“
+java:S1319»"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(é»ê·úÿÿÿÿ8Ì †‰ª.
+g
+java:S4042ÿ"IUse "java.nio.Files#delete" here for better messages on error conditions.(¥Ç¼Ö8Ì †‰ª.
+“
+java:S1319™"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(é¯Šûûÿÿÿÿ8Ì †‰ª.
+“
+java:S1319í"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İÜùíøÿÿÿÿ8Ì †‰ª.
+M
+java:S2093•"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ì †‰ª.
+^	java:S125Å"<This block of commented-out lines of code should be removed.(Ò¿¾Õùÿÿÿÿ8Ì †‰ª.
+Y	java:S125Ç"<This block of commented-out lines of code should be removed.(è¹·Ÿ8Ì †‰ª.
+w
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(àçºÆ8Ì †‰ª.
+|
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëÿ¡ïùÿÿÿÿ8Ì †‰ª.

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ControlDeIngresos</string>
+    <string name="amount">Cantidad de Dinero:</string>
+    <string name="outcome">Egresos</string>
+    <string name="income">Ingresos</string>
+    <string name="transaction_description">Descripción de la transacción:</string>
+    <string name="date">Fecha</string>
+    <string name="total">Total</string>
+    <string name="conventions">Convenciones</string>
+</resources>
